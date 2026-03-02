@@ -9,7 +9,7 @@ This repository contains a feature-level Product Requirements Document for Visua
 
 Visual Stories is the first feature from the post-MVP Delight phase of the content hub roadmap, and the first format on the hub explicitly designed for social referral acquisition. The feature was driven by an analytics-identified gap: social referral traffic was growing slowly despite increased posting frequency, with root cause analysis pointing to a format mismatch rather than a content quality problem.
 
-📄 **[Read the full PRD →](./prd-visual-stories.md)**
+📄 **[Read the full PRD →]((https://github.com/thedmons/prd-visual-stories/blob/main/prd-visual-stories))**
 
 ---
 
