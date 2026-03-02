@@ -7,8 +7,7 @@
 |---|---|
 | **Product** | Consumer Content Hub — Visual Stories |
 | **Document Type** | Product Requirements Document (PRD) |
-| **Version** | 1.2 |
-| **Status** | Draft |
+| **Status** | Completed |
 | **Date** | Q1 2024 |
 | **Surface** | Mobile web (primary), desktop web (secondary) |
 | **Author** | Digital Product |
