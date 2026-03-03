@@ -13,6 +13,18 @@ Visual Stories is the first feature from the post-MVP Delight phase of the conte
 
 ---
 
+## Outcomes
+
+| Metric | Result | Status |
+|---|---|---|
+| Overall content hub sessions — 90 days post-launch | +87% (198.9K → 372.6K) | ✅ Achieved |
+| YoY growth at 90-day mark | +25.2% | ✅ Achieved |
+| Mobile traffic share at 90 days (YTD) | 65.5% vs. 62.9% pre-launch | 📈 Directional |
+
+*Traffic growth reflects overall content hub performance in the 90 days following Visual Stories launch (Dec 2023 – Mar 2024) — not attributed solely to the feature. Mobile share increase is directionally consistent with a format designed for mobile social audiences.*
+
+---
+
 ## What This Demonstrates
 
 This document shows how I approach **feature-level product work within an established platform** — a common PM challenge that requires working within existing technical constraints, content models, and stakeholder workflows rather than building from scratch.
@@ -35,6 +47,8 @@ This document shows how I approach **feature-level product work within an establ
 |---|---|
 | **Product** | Consumer Content Hub — Visual Stories |
 | **Document Type** | Feature PRD |
+| **Status** | Completed |
+| **Date** | Q1 2024 |
 | **Surface** | Mobile web (primary), desktop web (secondary) |
 | **Platform** | Adobe Experience Manager (AEM) |
 
