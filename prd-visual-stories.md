@@ -80,14 +80,15 @@ Visual Stories are not a replacement for long-form articles — they are a compa
 
 ### 3.2 Success Metrics
 
-| Metric | Baseline | Target | Measurement |
-|---|---|---|---|
-| Story clickthrough rate (to article or product) | Establish at launch | Increase vs. pre-launch baseline | Adobe Analytics |
-| Story impressions (monthly) | 0 | Establish baseline in month 1 | Adobe Analytics |
-| Social referral sessions to content hub (monthly) | Establish at launch | Measurable lift at 90 days | Adobe Analytics |
-| Stories published per month | 0 | 6–8 (targeting 2/week) | Content calendar |
+| Metric | Baseline | Target | Result | Measurement |
+|---|---|---|---|---|
+| Story clickthrough rate (to article or product) | Establish at launch | Increase vs. pre-launch baseline | Baseline established; directional lift vs. pre-launch | Adobe Analytics |
+| Story impressions (monthly) | 0 | Establish baseline in month 1 | Baseline established in month 1 | Adobe Analytics |
+| Social referral sessions to content hub (monthly) | Establish at launch | Measurable lift at 90 days | +87% overall content hub sessions at 90 days (198.9K → 372.6K); +25.2% YoY growth | Adobe Analytics |
+| Mobile traffic share | 62.9% (pre-launch) | Directional increase | 65.5% at 90 days (YTD) | Adobe Analytics |
+| Stories published per month | 0 | 6–8 (targeting 2/week) | Baseline established | Content calendar |
 
-**Measurement approach:** Pre/post comparison for articles and product pages where Visual Stories are actively featured is the primary signal for story-driven impact.
+> **Attribution note:** Session and traffic growth reflects overall content hub performance in the 90 days following Visual Stories launch (Dec 2023 – Mar 2024) — not attributed solely to this feature. Mobile share increase is directionally consistent with a format designed for mobile social audiences.
 
 ---
 
