@@ -21,19 +21,19 @@ Visual Stories is the first feature from the post-MVP Delight phase of the conte
 | YoY growth at 90-day mark | +25.2% | ✅ Achieved |
 | Mobile traffic share at 90 days (YTD) | 65.5% vs. 62.9% pre-launch | 📈 Directional |
 
-*Traffic growth reflects overall content hub performance in the 90 days following Visual Stories launch (Dec 2023 – Mar 2024) — not attributed solely to the feature. Mobile share increase is directionally consistent with a format designed for mobile social audiences.*
+Traffic growth reflects overall content hub performance in the 90 days following Visual Stories launch (Dec 2023 – Mar 2024) — not attributed solely to the feature. Mobile share increase is directionally consistent with a format designed for mobile social audiences.
 
 ---
 
 ## What This Demonstrates
 
-This document shows how I approach **feature-level product work within an established platform** — a common PM challenge that requires working within existing technical constraints, content models, and stakeholder workflows rather than building from scratch.
+This document shows how I approach feature-level product work within an established platform — a common PM challenge that requires working within existing technical constraints, content models, and stakeholder workflows rather than building from scratch.
 
 **Problem framing from data** — The feature is grounded in a concrete analytics-identified gap: social referral traffic was growing slowly despite increased posting frequency. The PRD surfaces the root cause (format mismatch, not content quality) and proposes a targeted solution rather than a generic "add a new format" ask.
 
 **Two-type content model** — Visual Stories required differentiating Editorial and Merchandising story types with distinct CTA pathing logic. Capturing this as a formal distinction — rather than a series of optional fields — reflects how content strategy decisions translate into authoring constraints and content models.
 
-**Constraint-driven scope decisions** — Several decisions are explicitly grounded in technical or UX constraints: swipe gestures excluded to avoid conflict with native mobile browser gestures; cinemagraphs deferred due to accessibility requirements and player infrastructure; companion article enforced as a required field to prevent orphaned stories. The PRD documents the *why* behind each, not just the *what*.
+**Constraint-driven scope decisions** — Several decisions are explicitly grounded in technical or UX constraints: swipe gestures excluded to avoid conflict with native mobile browser gestures; cinemagraphs deferred due to accessibility requirements and player infrastructure; companion article enforced as a required field to prevent orphaned stories. The PRD documents the why behind each, not just the what.
 
 **Lightweight integration over net-new components** — Rather than specifying a dedicated homepage shelf, Visual Stories surface through existing Editor's Picks and Hot Off the Press sections as standard article cards — a deliberate scope decision that reduces engineering effort and respects the existing content architecture.
 
@@ -61,4 +61,3 @@ This PRD is part of a series documenting the FinTech Consumer Content Hub initia
 | Artifact | Description |
 |---|---|
 | [PRD: FinTech Consumer Content Hub (MVP)](https://github.com/thedmons/prd-content-hub) | Platform PRD this feature builds on — content model, taxonomy, SEO, phased roadmap |
-| [System Design: AEM Component Architecture](https://github.com/thedmons/system-design-content-hub) | Technical architecture underlying the hub — component library, JCR taxonomy, caching, analytics |
